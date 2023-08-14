@@ -1,0 +1,3 @@
+requests
+python-magic
+PyJWT==1.7.1
